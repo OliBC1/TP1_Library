@@ -1,7 +1,9 @@
 ﻿namespace TP1_Library
 {
-    public class Categorie
+    enum Categorie
     {
-
+        boi,
+        gur,
+        beans
     }
 }
